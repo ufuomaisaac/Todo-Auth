@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Database
+todo.db
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
